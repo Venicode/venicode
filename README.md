@@ -1,6 +1,6 @@
 ### Hello, there 👋
 
-Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GITHUB para publicar meus estudos e meus projetos pessoais. <br>
+Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GitHub para publicar meus estudos e meus projetos pessoais. <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical&card_width=320" />
