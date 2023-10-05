@@ -1,7 +1,10 @@
 ### Hello, there 👋
 
-Me chamo Vitoria e estou cursando Ciencia da Computação. Estou usando o GITHUB para publicar meus estudos e meus projetos pessoais. Espero que gostem!
+Me chamo Vitoria e estou cursando Ciencia da Computação. Estou usando o GITHUB para publicar meus estudos e meus projetos pessoais. Espero que gostem! <br>
 
-- 🔭 Atualmente trabalho com suporte técnico e desenvolvimento de aplicações web, migrando para apps mobile e desktop.
-- 🌱 Aprendendo linguagem Dart, Javascript e Python.
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
