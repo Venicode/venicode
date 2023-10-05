@@ -1,4 +1,4 @@
-b### Hello, there 👋
+### Hello, there 👋
 
 Me chamo Vitoria e estou cursando Ciencia da Computação. Estou usando o GITHUB para publicar meus estudos e meus projetos pessoais. Espero que gostem! <br>
 
