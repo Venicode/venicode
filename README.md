@@ -1,6 +1,5 @@
-<div width="100%">
 ### Hello, there 👋
-
+<div width="100%">
 Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GitHub para publicar meus estudos e meus projetos pessoais. <br>
 <div style="display: inline_block"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
