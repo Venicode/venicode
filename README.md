@@ -7,14 +7,8 @@ I'm Vitoria, a Computer Science student. Currently in IT support, the goal is to
 - Main stack: .NET
 
 **GitHub Stats:**
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=300&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&card_width=300&theme=radical" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=300&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&card_width=300&theme=radical)
 
 **Skills:**
 <div style="display: flex; justify-content: space-between;">
@@ -24,5 +18,5 @@ I'm Vitoria, a Computer Science student. Currently in IT support, the goal is to
   <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-**Connect with me:**<br>
+**Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venint/)
