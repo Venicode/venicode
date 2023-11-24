@@ -1,6 +1,10 @@
-<h1>Hello, there 👋</h1>
+<h1>Hello, everyone 👋</h1>
 <div max-width="100%">
-Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GitHub para publicar meus estudos e meus projetos pessoais. <br>
+<p>My name is Vitoria, I do Science Computer and I created this profile for share my personal projects e studies.</p>
+<p>About me:</p>
+<p>Country: Brazil</p>
+<p>Main stack: .NET</p>
+
 <div style="display: flex"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=300&theme=radical" />
@@ -10,8 +14,10 @@ Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GitHu
 </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
+  <img align="center" alt="Rafa-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br>
 <br>
 <div> 
