@@ -1,11 +1,12 @@
-<h1>Hello, everyone 👋</h1>
-<div max-width="100%">
-<p>My name is Vitoria, I do Science Computer and I created this profile for share my personal projects e studies.</p>
+<h1>Hello, there! 👋 </h1>
+<div>
+<p>I'm Vitoria, Computer Science student. This profile is dedicated to sharing personal projects and studies. 
+  Currently in IT support, the goal is to transition into a Softare Developer role. </p>
 <p>About me:</p>
 <p>Country: Brazil</p>
 <p>Main stack: .NET</p>
 
-<div style="display: flex"><br>
+<div style="display: flex" max-width="100%"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=300&theme=radical" />
 </a>
