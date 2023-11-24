@@ -8,11 +8,12 @@ I'm Vitoria, a Computer Science student. Currently in IT support, the goal is to
 
 **GitHub Stats:**
 <div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical" height="200"/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;" >
+    <img src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&theme=radical" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
