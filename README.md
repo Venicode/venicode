@@ -1,12 +1,12 @@
 ### Hello, there 👋
-<div width="90%">
+<div width="100%">
 Me chamo Vitoria e estou cursando Ciência da Computação. Estou usando o GitHub para publicar meus estudos e meus projetos pessoais. <br>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=200&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&card_width=300&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&card_width=200&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&card_width=300&theme=radical" />
 </a>
 </div>
 <div style="display: inline_block"><br>
