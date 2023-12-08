@@ -4,10 +4,10 @@
 <div style="display: flex;">
   
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=radical" width="440" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="flex: 1;" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&theme=radical" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&theme=radical" width="400"/>
   </a>
 </div>
 
