@@ -1,11 +1,5 @@
 # Hello, there! 👋
 
-I'm Vitoria, a Computer Science student. Currently in IT support, the goal is to transition into a Software Developer role. This profile is dedicated to sharing my personal projects and studies.
-
-**About me:**
-- Country: Brazil
-- Main stack: .NET
-
 **GitHub Stats:**
 <div style="display: flex;">
   
