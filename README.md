@@ -11,13 +11,5 @@
   </a>
 </div>
 
-**Skills:**
-<div style="display: flex; justify-content: space-between;">
-  <img height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
-  <img height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg">
-  <img height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">
-  <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venint/)
