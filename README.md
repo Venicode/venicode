@@ -9,3 +9,5 @@
   <a href="https://github.com/anuraghazra/convoychat" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicode&layout=compact&langs_count=8&theme=dracula"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
