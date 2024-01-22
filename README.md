@@ -1,8 +1,8 @@
 # Hello, there! 👋
+<p>Estudante de Ciência da Computação. Experiência com programação Web, mobile e migrando para o desenvolvimento back-end em Java. Atualmente trabalho como Help Desk.</p>
 
 **GitHub Stats:**
 
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=venicode&show_icons=true&theme=dracula" />
   </a>
