@@ -1,5 +1,5 @@
 # Hi! Let me introduce myself <img align="center" alt="Rafa-Js" height="30" width="35" src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif">
-<p>Hello,everyone! I'm a Computer Science student and I created this profile to publish my personal and study projects. Currently, I've been learning Java for back-end development, but I also have experience with Web and Mobile programming due to my job. I'm currently responsible for IT Support but I'm transitioning to development. Hope you like my projects!</p>
+<p>I'm a Computer Science student and I created this profile to publish my personal and study projects. Currently, I've been learning Java for back-end development, but I also have experience with Web and Mobile programming due to my job. I'm currently responsible for IT Support but I'm transitioning to development. Hope you like my projects!</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venicode&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venicode&theme=dracula)
