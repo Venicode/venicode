@@ -10,7 +10,8 @@
 </div>
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+<hr>
 <p>Here is my latest project that I have been working on:</p>
 <a href="https://github.com/Venicode/sistema-mercado">
-  <img src="https://img.shields.io/badge/Java-Sistema Mercado-blue?style=for-the-badge&logo=java" alt="Sistema Mercado">
+  <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
 </a>
