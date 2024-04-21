@@ -9,6 +9,8 @@
   <img align="center" alt="Rafa-Python" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">&nbsp    
 </div>
 <br>
- <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 <p>Here is my latest project that I have been working on:</p>
-[![Project](https://img.shields.io/badge/Project-Software-blue?style=for-the-badge&logo=software)](link_para_seu_projeto)
+<a href="https://github.com/Venicode/sistema-mercado">
+  <img src="https://img.shields.io/badge/Java-Sistema Mercado-blue?style=for-the-badge&logo=java" alt="Sistema Mercado">
+</a>
