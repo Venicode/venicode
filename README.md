@@ -5,6 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venicode&theme=dracula)
 <div style="display: inline_block">
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">&nbsp
+  <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">&nbsp
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">&nbsp 
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg">&nbsp    
 </div>
