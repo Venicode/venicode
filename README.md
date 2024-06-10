@@ -12,14 +12,15 @@
 </div>
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+hr>
+<p>Take a look in my latest personal project in Java</p>
+<a href="https://github.com/Venicode/sistema-mercado">
+  <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
+</a>
  <hr>
  <p>Game development:</p>
 <p>Here is my latest team project that I had done in Unity:</p>
 <a href="https://github.com/Venicode/agente-brutal.git">
   <img src="https://img.shields.io/badge/Unity-Agente Brutal-orange?style=for-the-badge&logo=java" alt="Agente Brutal">
 </a>
-<hr>
-<p>Take a look in my latest personal project in Java</p>
-<a href="https://github.com/Venicode/sistema-mercado">
-  <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
-</a>
+<
