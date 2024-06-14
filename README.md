@@ -21,6 +21,11 @@
 <a href="https://github.com/Venicode/sistema-mercado">
   <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
 </a>
+<hr> Java Studys
+<p>Take a look in my latest study project:</p>
+<a href="https://github.com/Venicode/api-vollmed-alura">
+  <img src="https://img.shields.io/badge/Java-Api VollMed-blue?style=for-the-badge&logo=java" alt="Sistema Mercado">
+</a>
  <hr>
  <p>Game development</p>
 <p>Here is my latest team project that I had done in Unity:</p>
