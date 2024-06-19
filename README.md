@@ -16,19 +16,13 @@
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 <hr>
-<p> Java Projects
-<p>Take a look in my latest personal project:</p>
+<p> Java Projects </p>
 <a href="https://github.com/Venicode/venimarket-api">
-  <img src="https://img.shields.io/badge/Java-Venimakert API-green?style=for-the-badge&logo=java" alt="Sistema Mercado">
+<img src="https://img.shields.io/badge/Java-Venimakert API-green?style=for-the-badge&logo=java" alt="Sistema Mercado">
 </a>
 <br>
 <a href="https://github.com/Venicode/sistema-mercado">
-  <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
-</a>
-<hr> Java Studys
-<p>Take a look in my latest study project:</p>
-<a href="https://github.com/Venicode/api-vollmed-alura">
-  <img src="https://img.shields.io/badge/Java-Api VollMed-blue?style=for-the-badge&logo=java" alt="Sistema Mercado">
+  <img src="https://img.shields.io/badge/Java-Venimarket-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
 </a>
  <hr>
  <p>Game development</p>
