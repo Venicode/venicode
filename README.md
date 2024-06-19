@@ -18,6 +18,10 @@
 <hr>
 <p> Java Projects
 <p>Take a look in my latest personal project:</p>
+<a href="https://github.com/Venicode/venimarket-api">
+  <img src="https://img.shields.io/badge/Java-Venimakert API-green?style=for-the-badge&logo=java" alt="Sistema Mercado">
+</a>
+<br>
 <a href="https://github.com/Venicode/sistema-mercado">
   <img src="https://img.shields.io/badge/Java-Retail Software-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
 </a>
