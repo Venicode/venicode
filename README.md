@@ -12,6 +12,7 @@
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">&nbsp   
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">&nbsp  
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">&nbsp   
+  <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">&nbsp   
 </div>
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
