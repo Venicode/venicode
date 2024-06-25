@@ -16,18 +16,11 @@
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 
-<hr>
-<p> Java Projects </p>
-<a href="https://github.com/Venicode/venimarket-api">
-<img src="https://img.shields.io/badge/Java-Venimakert API-green?style=for-the-badge&logo=java" alt="Sistema Mercado">
-</a>
-<br>
-<a href="https://github.com/Venicode/sistema-mercado">
-  <img src="https://img.shields.io/badge/Java-Venimarket-red?style=for-the-badge&logo=java" alt="Sistema Mercado">
-</a>
- <hr>
- <p>Game development</p>
-<p>Here is my latest team project that I had done in Unity:</p>
-<a href="https://github.com/Venicode/agente-brutal.git">
-  <img src="https://img.shields.io/badge/Unity-Agente Brutal-orange?style=for-the-badge&logo=java" alt="Agente Brutal">
-</a>
+<h3>Main Projects</h3>
+
+<h4>Venimarket</h4>
+
+Venimarket is a personal projet which is based in a general retail software. First, I developed a simple application without integration with a database, just for practicing my OOP skills and after that, I created an API in Spring Boot about this use case.
+
+[![Venimarket API](https://img.shields.io/badge/Venimarket%20API-4CAF50?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/venimarket-api) 
+[![Venimarket](https://img.shields.io/badge/Venimarket-D2691E?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Venicode/sistema-mercado)
