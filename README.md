@@ -15,8 +15,6 @@
 </div>
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
- 
-![snake gif](https://github.com/Venicode/venicode/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr>
 <p> Java Projects </p>
