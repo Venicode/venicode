@@ -18,7 +18,7 @@
 
 <h3>Main Projects</h3>
 
-<h4>Venimarket</h4>
+<h4>🛒 Venimarket</h4>
 
 Venimarket is a personal projet which is based in a general retail software. First, I developed a simple application without integration with a database, just for practicing my OOP skills and after that, I created an API in Spring Boot about this use case.
 
