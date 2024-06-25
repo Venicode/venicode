@@ -16,7 +16,7 @@
 <br>
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/venicode/venicode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/venicode/venicode/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 <p> Java Projects </p>
