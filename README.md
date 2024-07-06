@@ -23,4 +23,4 @@
 Venimarket is a personal projet which is based in a general retail software. First, I developed a simple application without integration with a database, just for practicing my OOP skills and after that, I created an API in Spring Boot about this use case.
 
 [![Venimarket API](https://img.shields.io/badge/Venimarket%20API-4CAF50?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/venimarket-api) 
-[![Venimarket](https://img.shields.io/badge/Venimarket-D2691E?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Venicode/sistema-mercado)
+[![Venimarket](https://img.shields.io/badge/Venimarket-D2691E?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Venicode/venimarket-java-swing)
