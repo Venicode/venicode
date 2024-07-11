@@ -19,5 +19,5 @@
 <h3>Main Projects</h3>
 
 [![Venimarket API](https://img.shields.io/badge/Venimarket%20API-4CAF50?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/venimarket-api) 
-[![Shipping Service](https://img.shields.io/badge/Shipping-yellow?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/shipping-service)
+[![Shipping Service](https://img.shields.io/badge/Shipping-yellow?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/shipping-cost-service)
 
