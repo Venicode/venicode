@@ -8,12 +8,13 @@
 <div style="display: inline_block">
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">&nbsp
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">&nbsp
-   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">&nbsp
+  <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">&nbsp
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">&nbsp
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">&nbsp   
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">&nbsp  
+  <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg">&nbsp
   <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">&nbsp   
-  <img align="center" height="80" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">&nbsp   
+    
 </div>
 
 <h3>Main Projects</h3>
