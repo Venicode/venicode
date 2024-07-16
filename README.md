@@ -21,4 +21,5 @@
 
 [![Venimarket API](https://img.shields.io/badge/Venimarket%20API-4CAF50?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/venimarket-api) 
 [![Shipping Service](https://img.shields.io/badge/Shipping%20Cost%20Service-yellow?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Venicode/shipping-cost-service)
+[![User Registration Validation](https://img.shields.io/badge/User%20Registration%20Validation-red?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://github.com/Venicode/validation-user-register)
 
