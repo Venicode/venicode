@@ -1,4 +1,4 @@
-# Hello there! Welcome to my profile <img align="center" alt="Rafa-Js" height="50" width="50" src="https://c.tenor.com/6tAKDRH_qAwAAAAC/tenor.gif">
+# <img align="center" alt="Rafa-Js" height="50" width="50" src="https://c.tenor.com/6tAKDRH_qAwAAAAC/tenor.gif"> Hello there! Welcome to my profile
  ## 🌻 About me
 <p>I'm a Computer Science student and I created this profile to publish my personal and study projects. Currently, I've been learning Java for back-end development, but I also have experience with Web and Mobile programming due to my job. I'm currently responsible for IT Support but I'm transitioning to development. Hope you like my projects!</p>
 
@@ -26,6 +26,6 @@
 
 [![GIT Notes](https://img.shields.io/badge/GIT%20Notes-red?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Venicode/git-notes)
 
-## Contacts
+## 📠 Contacts
 
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
