@@ -23,9 +23,8 @@
 [![User Registration Validation](https://img.shields.io/badge/User%20Registration%20Validation-red?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://github.com/Venicode/user-registration-validation)
 
 ## 📚 Learning Materials
-
+[![DEV.TO](https://img.shields.io/badge/DEV%20TO-black?style=for-the-badge)](https://dev.to/venicode)
 [![GIT Notes](https://img.shields.io/badge/GIT%20Notes-red?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Venicode/git-notes)
-
 ## 📠 Contacts
 
  <a href="https://www.linkedin.com/in/venint/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
